@@ -1,6 +1,3 @@
-SÍGUE MI BLOG: https://micreatorpersonalsoftware.blogspot.com/
-CONTÁCTAME POR: jojosbattletendency1942@gmail.com
-
 HABILIDADES:
 1-PYTHON
 2-JAVA
